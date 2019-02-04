@@ -1,9 +1,0 @@
-
-graph TD
-  nb[.Net Build Server] -- Metrics --> ccr
-  jb[Java Build Server] -- Metrics --> ccr
-  subgraph API Server
-  ccr[Metric Repo] -- Transform --> api[API]
-  end
-  api --> ccd[Dashboard]
-  api --> doc["Document Generation Tool (Future State)"]
