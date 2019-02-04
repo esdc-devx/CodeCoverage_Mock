@@ -1,9 +1,13 @@
 # Code Coverage Dashboard
 
-The Developer Experience Team is strongly recommending we put in place a series of dashboards to expose the metrics on the systems being build in IITB. In order to satisfy the requirement from senior management that we increase the amount of automated testing in IITB we believe that the first dashboard that we put in place should be a code coverage dashboard. This will allow management to get a holistic vision of
-
+The Developer Experience Team is strongly recommending we put in place a series of dashboards to expose the metrics on the systems being build in IITB. In order to satisfy the requirement from senior management that we increase the amount of automated testing in IITB we believe that the first dashboard that we put in place should be a code coverage dashboard. This will allow management to get a realtime view of the level of test automation that is occuring in the department and will identify areas that need support to increase test automation coverage.
 
 It is important to note that for this to be successful a lack of Automated Tests must not be seen as a failure on the part of the developers, this must be seen as a failure of the organization as a whole. An important aspect of DevSecOps is a culture of blamelessness, blame will disincentivise developers from participating in the dashboard.
+
+There are many reasons why high code coverage can be hard to achieve especially on systems that have not had automated tests written for them.
+
+Systems must be designed to be testable from inception, when testing is imposed on a project after code has been written it can be difficult to test without major refactoring.
+
 
 ## Business Value
 
