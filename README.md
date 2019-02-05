@@ -30,7 +30,7 @@ We are proposing an architecture that looks like the following we will make use 
 
 We have created a mock-up of what the final UI will look like you can see our mock-up at the following link http://dashboard.devx.team or the following screenshot.
 
-We have created a mock-up of what the final UI will look like you can see our mock-up at the following link http://dashboard.devx.team or the following screenshot
+![Mockup Screenshot](https://raw.githubusercontent.com/esdc-iitb/CodeCoverage_Mock/master/mock/screenshot.png)
 
 If we are given the authority to do this we can start having a dashboard in place with results being reported by beginning of next fiscal (assuming our above requirements are met.)
 
