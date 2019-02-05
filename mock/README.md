@@ -15,5 +15,5 @@ docker run -p 8000:80 -t codecoverage:latest
 Visiting the mockup
 
 ```
-http://localhost:8000/dashboard.html
+http://localhost:8000/
 ```
