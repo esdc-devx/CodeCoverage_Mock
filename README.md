@@ -9,7 +9,7 @@ It is important to note that for this to be successful a lack of Automated Tests
 
 ### Value
 
-Having code covered by automated unit testing is an important requirement in moving to continuous delivery. It enables developers to make changes to their system without breaking existing functionality. It improves security compliance with ITSG-33 SA-11(8), enabling developers to get though security testing faster. It reduces the amount of manual testing required, enabling developers to spend less time in testing cycles. Having a high code coverage is one of the first steps towards being able to implement Continous Delivery with a product.
+Having code covered by automated unit testing is an important requirement in moving to continuous delivery. It enables developers to make changes to their system without breaking existing functionality. It improves security compliance with ITSG-33 SA-11(8), enabling developers to get though security testing faster. It reduces the amount of manual testing required, enabling developers to spend less time in testing cycles.
 
 ### Purpose
 
