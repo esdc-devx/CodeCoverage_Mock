@@ -1,5 +1,7 @@
 # Code Coverage Dashboard
 
+[![Build Status](https://cloud.drone.io/api/badges/esdc-devx/CodeCoverage_Mock/status.svg)](https://cloud.drone.io/esdc-devx/CodeCoverage_Mock)
+
 ## Recommendation
 
 The Developer Experience Team is strongly recommending we put in place a series of dashboards to expose metrics on the systems being built in IITB.
