@@ -1,0 +1,10 @@
+Dockerfile
+README.md
+.terraform
+diagram
+CodeCoverage_mock.code-workspace
+infradiag.png
+LICENSE
+README.md
+.drone.yml
+.gitignore
