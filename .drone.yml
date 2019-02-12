@@ -14,7 +14,7 @@ steps:
     password:
       from_secret: QUAY_PWORD
     registry: quay.io
-    repo: quay.io/esdc-devx/dashboardmock
+    repo: quay.io/esdcdevx/dashboardmock
     tags:
       - latest
     username: esdcdevx+dashboardmock
