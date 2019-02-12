@@ -1,3 +1,7 @@
+---
+platform:
+  os: linux
+  arch: amd64
 
 ---
 kind: pipeline
@@ -16,5 +20,5 @@ steps:
     registry: quay.io
     repo: quay.io/esdcdevx/dashboardmock
     tags:
-      - latest
-    username: esdcdevx+dashboardmock
+    - latest
+    username: esdcdevx+dashhboardmock
